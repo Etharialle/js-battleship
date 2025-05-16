@@ -1,0 +1,20 @@
+{
+  "name": "js-battleship",
+  "version": "0.0.1",
+  "description": "Battleship project for The Odin Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Etharialle/js-battleship.git"
+  },
+  "keywords": [],
+  "author": "Etharialle",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-cli": "^29.7.0"
+  }
+}
